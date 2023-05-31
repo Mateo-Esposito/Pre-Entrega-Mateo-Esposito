@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  nav {
+    height: 100px;
+    background-color: #ECE2C6;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  
+  .tituloPpal  { 
+    
+    align-self:center;
+    
+    font-family: titulo;
+    font-style: italic;
+    font-size: 2.5rem;
+    color: #30324b;
+  }
+  
+  span {
+    color: #4e5272;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  
+  button {
+    width: 120px;
+    height: 30px;
+    margin: 50px;
+    
+    padding:5px;
+    font-family: menu;
+    font-size: .9rem;
+    font-weight: bolder;
+    
+    border:#00008B 1px solid;
+    border-radius: 5px;
+    box-shadow: 2px 4px 15px 1px #282a3c;
+    background-color: #343753 ;
+    color: #edf2f4;
+  }
+  
+  .botones {
+    
+    width: 120px;
+    height: 30px;
+    margin: 50px;
+    
+    padding:5px;
+    font-family: menu;
+    font-size: .9rem;
+    font-weight: bolder;
+    border:#00008B 1px solid;
+    border-radius: 5px;
+    box-shadow: 2px 4px 15px 1px #282a3c;
+    background-color: #343753 ;
+    color: #edf2f4;
+  
+  }
+  
+  .categories {
+  margin-top: 50px;
+    
+  }
+  
+  #imgContainer {
+    align-self: center;
+    width: 80px;
+    height: 50px;
+    
+   
+  
+  }
+  
+  .cartImg {
+  
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    
+  }
+  
+  .cartNumber {
+        
+        font-size: 1.2rem;
+        
+    
+  }
+  
+  .welcome {
+    margin-top: 5px;
+    font-size: 1.5rem;
+    font-family: minusculabold;
+    font-style: italic;
+  
+  }
+  
+  h2 {
+    margin: 0;
+    padding: 20px;
+    font-size: 1.5rem ;
+    font-family:minusculaBold;
+    font-weight:bolder;
+    font-style: italic;
+    background-color: #ECE2C6;
+    color:	#4B4B4B;
+  }
+
+  .numero {
+    padding-top: 20px;
+  }
+  
+  .cardItem section p {
+    
+    padding: 2px;
+  }
